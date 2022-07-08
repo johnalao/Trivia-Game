@@ -5,6 +5,4 @@ class Question:
         self.answer = answer
 
 
-new_q = Question("John", "is my name!")
 
-print(new_q.answer)
